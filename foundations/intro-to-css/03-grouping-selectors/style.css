@@ -1,0 +1,14 @@
+.yesclick,
+.noclick {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 40px;
+}
+.yesclick {
+  color:white;
+    background-color:black;
+}
+
+.noclick {
+  color:black;
+    background-color:yellow;
+}
